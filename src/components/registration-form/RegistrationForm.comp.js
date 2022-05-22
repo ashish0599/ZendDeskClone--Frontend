@@ -12,7 +12,7 @@ import { newUserRegistration } from "./userRegAction";
 import { useDispatch, useSelector } from "react-redux";
 
 const initialState = {
-  name: "Prem Acharya",
+  name: "Prem",
   phone: "0410000000",
   email: "fakeemail@email.com",
   company: "webdev",
